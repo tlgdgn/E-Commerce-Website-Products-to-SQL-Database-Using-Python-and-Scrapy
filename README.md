@@ -3,7 +3,7 @@ This repository shows a good example of how to draw data from an online store to
 
 --- STEPS ---
 
-1-) Place the petlebi_scrapy.py file into the spiders folder.
+1-) Place the `petlebi_scrapy.py` file into the spiders folder.
 
 2-) Place the rest of the files in the project folder.
 
